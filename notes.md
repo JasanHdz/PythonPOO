@@ -521,7 +521,7 @@ Ahora ya podemos instalar los paquetes o librerías que necesitemos en nuestro a
 - Creamos ambiente virtual
   `python -m venv env`
 - Ingresamos al ambiente Virtual
-  `env/Scripts/activate`
+  `venv/Scripts/activate`
 
 Una vez ingresado al ambiente virtual nos debe de aparecer **(env)** antes del path en la terminal.
 
